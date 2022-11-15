@@ -1,3 +1,4 @@
+some words about the following diagram:
 
 ```mermaid
 flowchart TD;
@@ -13,7 +14,7 @@ flowchart TD;
 		Pod1DB[(Database)]
 		Pod1Container1[API]
 		Pod1Container2[API]
-		
+
 		subgraph Pod1Event[Event]
 			direction LR
 			First[Action]

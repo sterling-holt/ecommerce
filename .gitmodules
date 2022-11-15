@@ -1,0 +1,3 @@
+[submodule "app/web"]
+	path = app/web
+	url = git@github.com:sterling-holt/ecommerce-web.git
